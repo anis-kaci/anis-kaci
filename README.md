@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning Web dev, networks and js
 - 💞️ I’m looking to collaborate on building websites
-- 📫 How to reach me ...
+- 📫 How to reach me https://twitter.com/Aniss_kun , https://instagram.com/aniss_kun
 
 <!---
 anis-kaci/anis-kaci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
