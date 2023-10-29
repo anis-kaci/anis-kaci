@@ -1,4 +1,4 @@
-# Hello, I'm Anis
+# Hello, I'm Anis Kaci
 
 I'm a data engineering student, athlete and a passionate data science enthusiast with a strong focus on machine learning, including business use cases and Natural Language Processing (NLP). I also have a deep interest in mathematical concepts, particularly those closely related to data science, such as probability and statistics.
 
@@ -19,6 +19,16 @@ I'm constantly exploring the fascinating world of data science and machine learn
 - Exploring the beautiful world of mathematics and its role in data science
 - Delving into NLP to extract insights from text data
 - Analyzing data with a statistical lens to uncover hidden patterns
+
+
+## What Im currently working on 
+
+- Anomaly detection 
+- Improving churn analysis and prediction using ML models
+- Blockchain related ML
+- Exploring hugging face transformers
+- Game theory algorithms (minmax, alphabeta)
+- Monte Carlo technique
 
 ## Let's Connect
 
