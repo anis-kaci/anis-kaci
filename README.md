@@ -23,12 +23,11 @@ I'm constantly exploring the fascinating world of data science and machine learn
 
 ## What Im currently working on 
 
-- Anomaly detection 
-- Improving churn analysis and prediction using ML models
+- Anomaly detection on time series data
+- Exploring, coding and testing ML models for different fields use cases (Business, healthcare..etc)
 - Blockchain related ML
-- Exploring hugging face transformers
-- Game theory algorithms (minmax, alphabeta)
-- Monte Carlo technique
+- Probability/Statistics (Monte Carlo simulations, stochastic processes, Markov Chains..etc)
+
 
 ## Let's Connect
 
