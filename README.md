@@ -17,16 +17,17 @@ I'm constantly exploring the fascinating world of data science and machine learn
 - Building and deploying machine learning models
 - Solving real-world business problems using data
 - Exploring the beautiful world of mathematics and its role in data science
-- Delving into NLP to extract insights from text data
 - Analyzing data with a statistical lens to uncover hidden patterns
+- Delving into NLP to extract insights from text data
 
 
 ## What Im currently working on 
 
 - Anomaly detection on time series data
-- Exploring, coding and testing ML models for different fields use cases (Business, healthcare..etc)
-- Blockchain related ML
-- Probability/Statistics (Monte Carlo simulations, stochastic processes, Markov Chains..etc)
+- Coding, exploring and understanding various Neural networks concepts
+- Exploring, coding and testing ML models for different fields use cases (Business, manufacturing, healthcare..etc)
+- Blockchain and smart contracts for decentralized Applications
+- Probability/Statistics (Monte Carlo simulations, Estimators, stochastic processes, Markov Chains..etc)
 
 
 ## Let's Connect
