@@ -1,6 +1,6 @@
 # Hello, I'm Anis Kaci
 
-I'm a data engineering student, athlete and a passionate data science enthusiast with a strong focus on machine learning, including business use cases and Natural Language Processing (NLP). I also have a deep interest in mathematical concepts, particularly those closely related to data science, such as probability and statistics.
+I'm a Data scientist intern, data engineering student, athlete and a passionate data science enthusiast with a strong focus on machine learning, especially Time series analysis on business use cases. I also have a deep interest in mathematical concepts, particularly those closely related to data science, such as probability and statistics.
 
 ## About Me
 
