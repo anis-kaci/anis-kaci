@@ -24,9 +24,10 @@ I'm constantly exploring the fascinating world of data science and machine learn
 ## What Im currently working on 
 
 - Anomaly detection on time series data
+- Computer vision (OCR, text recognition..)
+- Diving into LLMs world (encoding, self attention mechanisms)
 - Coding, exploring and understanding various Neural networks concepts
 - Exploring, coding and testing ML models for different fields use cases (Business, manufacturing, healthcare..etc)
-- Blockchain and smart contracts for decentralized Applications
 - Probability/Statistics (Monte Carlo simulations, Estimators, stochastic processes, Markov Chains..etc)
 
 
