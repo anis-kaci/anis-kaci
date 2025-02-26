@@ -1,34 +1,37 @@
 # Hello, I'm Anis Kaci
 
-I'm a Data scientist intern, data engineering student, athlete and a passionate data science enthusiast with a strong focus on machine learning, especially Time series analysis on business use cases. I also have a deep interest in mathematical concepts, particularly those closely related to data science, such as probability and statistics.
+I'm a Junior Data scientist, data engineering student, athlete and a passionate data science enthusiast with a strong focus on Large Language Models, I also have a deep interest in mathematical concepts, particularly those closely related to data science, such as probability and statistics.
 
 ## About Me
 
 - 📚 Data Engineering Student
-- 🧠 Data Science Enthusiast
-- 🤖 Machine Learning Practitioner
+- 🧠 LLM Enthusiast
+- 🤖 GenAI Practitioner
 - 📖 Lifelong Learner
 - 📊 Mathematics forever curious
 
 ## What I Do
 
-I'm constantly exploring the fascinating world of data science and machine learning. My work involves:
+I'm constantly exploring the fascinating world of data science and AI. My work involves:
 
-- Building and deploying machine learning models
+- Large Language Models Theory (Architectures,BERT,GPT...etc)
+- Building GenAI applications using LLMs
 - Solving real-world business problems using data
 - Exploring the beautiful world of mathematics and its role in data science
-- Analyzing data with a statistical lens to uncover hidden patterns
-- Delving into NLP to extract insights from text data
 
 
 ## What Im currently working on 
-
-- Anomaly detection on time series data
-- Computer vision (OCR, text recognition..)
-- Diving into LLMs world (encoding, self attention mechanisms)
+- Fine tuning LLM models for different purposes, using different techniques (DeepSeek, LoRA, QLoRA)
+- GenAI for sentiment analysis (Speech-to-text, text-to-speech)
+- Keep up with LLM most recent architectures and trends (DeepSeek, Agents..)
 - Coding, exploring and understanding various Neural networks concepts
-- Exploring, coding and testing ML models for different fields use cases (Business, manufacturing, healthcare..etc)
+- Exploring, coding and testing ML and deep learning models for different fields use cases (Business, manufacturing, healthcare..etc)
+
+<!---
 - Probability/Statistics (Monte Carlo simulations, Estimators, stochastic processes, Markov Chains..etc)
+
+--->
+
 
 
 ## Let's Connect
