@@ -1,6 +1,6 @@
 # Hello, I'm Anis Kaci
 
-I'm a Junior Data scientist, data engineering student, athlete and a passionate data science enthusiast with a strong focus on Large Language Models, I also have a deep interest in mathematical concepts, particularly those closely related to data science, such as probability and statistics.
+I'm a Junior Data scientist, data engineering student, athlete and a passionate data science enthusiast with a strong focus on Large Language Models and sports related use cases of AI , I also have a deep interest in mathematical concepts, particularly those closely related to data science, such as probability and statistics.
 
 ## About Me
 
@@ -15,6 +15,7 @@ I'm a Junior Data scientist, data engineering student, athlete and a passionate 
 I'm constantly exploring the fascinating world of data science and AI. My work involves:
 
 - Large Language Models Theory (Architectures,BERT,GPT...etc)
+- Research LLMs and AI use cases in Sports (Table Tennis)
 - Building GenAI applications using LLMs
 - Solving real-world business problems using data
 - Exploring the beautiful world of mathematics and its role in data science
